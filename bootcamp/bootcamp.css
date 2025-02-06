@@ -1,0 +1,49 @@
+body {
+    background-image: url(image.png);
+    background-repeat: no-repeat, repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.cloud1 {
+    margin-top: 80px;
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    box-shadow:
+        350px 100px 0 white,
+        400px 85px 0 white,
+        400px 115px 0 white,
+        450px 100px 0 white;
+}
+
+.cloud2 {
+    margin-left: 550px;
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    box-shadow:
+        350px 100px 0 white,
+        400px 85px 0 white,
+        400px 115px 0 white,
+        450px 100px 0 white;
+}
+
+.cloud3 {
+    margin-top: 50px;
+    margin-left: 1100px;
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    box-shadow:
+        350px 100px 0 white,
+        400px 85px 0 white,
+        400px 115px 0 white,
+        450px 100px 0 white;
+}
